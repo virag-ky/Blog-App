@@ -194,7 +194,6 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
-    sqlite3 (1.5.3-x86_64-linux)
     stimulus-rails (1.1.0)
       railties (>= 6.0.0)
     thor (1.2.1)
@@ -232,13 +231,12 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  pg
+  pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 7.0.4)
   rubocop (>= 1.0, < 2.0)
   selenium-webdriver
   sprockets-rails
-  sqlite3
   stimulus-rails
   turbo-rails
   tzinfo-data
