@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Blog App
+# Blog App <img width="50px" src="https://user-images.githubusercontent.com/79658534/196410494-f2f02ce6-60d4-41fd-9eee-d3cd512cd41a.png">
+
 
 > This is going to be a fully functional blog application that will show the list of posts and empower readers to interact with them by adding comments and liking posts.
 
@@ -23,6 +24,10 @@
 - Ruby
 - Rails
 - Rubocop
+
+## ERD diagram
+![blog_app_erd](https://user-images.githubusercontent.com/79658534/196410864-c9e7bf4f-1bc1-4aa2-8d46-764b4447bfe9.png)
+
 
 ## Getting Started
 
