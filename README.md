@@ -7,17 +7,17 @@
 
 ### Steps of creating the application:
 
-- 1: Creating a data model.
-- 2: Validations and Model specs.
-- 3: Processing data in models.
-- 4: Setup and controllers.
-- 5: Controllers specs.
-- 6: Views.
-- 7: Forms.
-- 8: Integration specs for Views and fixing n+1 problems.
-- 9: Add Devise.
-- 10: Add authorization rules.
-- 11: Add API endpoints.
+- [x] 1: Creating a data model.
+- [ ]  2: Validations and Model specs.
+- [ ]  3: Processing data in models.
+- [ ]  4: Setup and controllers.
+- [ ]  5: Controllers specs.
+- [ ]  6: Views.
+- [ ]  7: Forms.
+- [ ]  8: Integration specs for Views and fixing n+1 problems.
+- [ ]  9: Add Devise.
+- [ ]  10: Add authorization rules.
+- [ ]  11: Add API endpoints.
 
 ## Built With
 
